@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Manuela Ludorf
-- 👀 I’m interested in Music
+- 👀 I’m interested in Coding, Music and books and poems
 - 🌱 I’m currently learning Azure and Cloud
 
 <!---
